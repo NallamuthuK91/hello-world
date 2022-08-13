@@ -15,7 +15,11 @@
     <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
-
+    
+    <label for="Mobile"><b>Enter Mobile Number</b></label>
+    <input type="number" placeholder="Enter Mobile Number" name="Mobile" id="mobile" required>
+    <br>
+    
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
